@@ -1,6 +1,16 @@
 {
     "experiences": [
         {
+            "title": "Cybersecurity Research Intern",
+            "subtitle": "Georgia Tech Research Institute (GTRI)",
+            "workType": "Internship",
+            "workDescription": [
+                "Contributing to projects involving Software Defined Radios, embedded systems, PCB design, and computer networking. Supporting research and development efforts that explore hardware security, system vulnerabilities, and advanced embedded technologies to enable better resilience/tactical control across different attack surfaces.",
+                "Accepted an offer to work part-time during the year. ."
+            ],
+            "dateText": "05/2025 – Present"
+        },
+        {
             "title": "Undergraduate Researcher",
             "subtitle": "Georgia Tech - Flavin Neuromachines Lab",
             "workType": "Research",
